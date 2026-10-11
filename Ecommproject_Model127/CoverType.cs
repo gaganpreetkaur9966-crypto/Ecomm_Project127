@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ecommproject_Model127
+{
+    public class CoverType
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}
